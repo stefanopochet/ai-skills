@@ -10,7 +10,7 @@ Each skill lives in its own folder with a `README.md` (what it is, why it works,
 
 | Skill | One line | Models |
 |---|---|---|
-| [`goldworks/`](goldworks/) | An **adversarial brainstormer** for your backlog: cheap AI miners dig through your systems and produce a mass of candidate findings, one expensive AI judge kills them by default, you only see what survives. Most of it is trash; the gold would never have reached you otherwise. | Judge: Claude Fable 5 `xhigh` (mandatory) · Miners: Claude Opus 5 `xhigh` |
+| [`goldworks/`](goldworks/) | An **adversarial brainstormer that finds the work you didn't know about**: cheap AI miners dig through your systems and produce a mass of candidate findings, one expensive AI judge kills them by default, you only see what survives. Most of it is trash; the gold would never have reached you otherwise. | Judge: Claude Fable 5 `xhigh` (mandatory) · Miners: Claude Opus 5 `xhigh` |
 
 ## Installing a skill
 
@@ -30,3 +30,9 @@ README explains what breaks.
 - Everything a skill writes stays inside the repo it runs in, in plain markdown, so `git diff` shows what
   it did.
 - State is files and folders: a folder is a state, moving a file is a transition. No database.
+
+## License
+
+Source-available, not open source: see [LICENSE](LICENSE). You may use, modify and run these skills,
+including inside your own company. Redistribution requires attribution and a copy of the licence, and
+offering them to third parties as a product or a hosted service requires written permission.

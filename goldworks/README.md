@@ -1,6 +1,6 @@
 # Goldworks
 
-**An adversarial brainstormer for your backlog.**
+**An adversarial brainstormer that finds the work you didn't know about.**
 
 Cheap fleets of AI *miners* dig through the systems you point them at and produce a mass of candidate
 findings. One expensive AI *judge* kills them by default. You see only what survives, as a prioritized,

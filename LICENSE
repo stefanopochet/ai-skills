@@ -1,0 +1,100 @@
+ai-skills Community License Agreement
+Version 1.0, 28 August 2026
+
+Copyright (c) 2026 Stefano Pochet. All rights reserved.
+
+This is a source-available license, not an open source license. You may read,
+use and modify this work, and share your modifications, under the conditions
+below. Anything not expressly granted here is reserved.
+
+1. DEFINITIONS
+
+   "Materials" means the documentation, skill definitions, configuration files,
+   templates and any other content in this repository, together with any
+   derivative works you create from them.
+
+   "Licensor" means Stefano Pochet, the copyright holder.
+
+   "You" means the individual or entity exercising the rights granted here. If
+   you accept these terms on behalf of an employer or another entity, you
+   represent that you have the authority to bind that entity.
+
+2. GRANT OF LICENSE
+
+   Subject to your compliance with this Agreement, the Licensor grants you a
+   non-exclusive, worldwide, non-transferable, royalty-free limited license to
+   use, reproduce, modify and distribute the Materials, including for internal
+   commercial purposes within your own organisation.
+
+3. REDISTRIBUTION AND ATTRIBUTION
+
+   If you distribute the Materials, or a derivative work of them, you must:
+
+   a. include a copy of this Agreement with the distribution;
+
+   b. retain all copyright, attribution and licence notices in the files you
+      distribute, without alteration;
+
+   c. include, in a NOTICE file or in the documentation of your work, the
+      following statement: "Built with Goldworks, from the ai-skills project by
+      Stefano Pochet."; and
+
+   d. clearly mark the changes you made, so that recipients can tell your
+      version from the original.
+
+4. RESTRICTIONS
+
+   You may not:
+
+   a. offer the Materials, or a derivative work of them, to third parties as a
+      commercial product or as a hosted or managed service, whether standalone
+      or as a substantial component of such an offering, without the Licensor's
+      prior written permission;
+
+   b. sublicense, sell or rent the Materials as such;
+
+   c. remove, obscure or alter any notice required by section 3;
+
+   d. use the name of the Licensor, "Goldworks" or "ai-skills" to endorse or
+      promote your products, beyond the attribution required by section 3(c),
+      without prior written permission; or
+
+   e. use the Materials in violation of any applicable law, or to build or
+      operate anything whose purpose is to harm, deceive, surveil or
+      discriminate against people.
+
+5. NO TRADEMARK LICENSE
+
+   This Agreement grants no rights in the Licensor's names, logos or trademarks,
+   except as strictly required by section 3(c).
+
+6. NO WARRANTY
+
+   THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. YOU ARE SOLELY
+   RESPONSIBLE FOR DETERMINING WHETHER THE MATERIALS ARE APPROPRIATE FOR YOUR
+   PURPOSES AND FOR ANY OUTPUT PRODUCED BY SYSTEMS YOU BUILD WITH THEM,
+   INCLUDING OUTPUT PRODUCED BY AI MODELS INSTRUCTED BY THESE MATERIALS.
+
+7. LIMITATION OF LIABILITY
+
+   IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+   CONNECTION WITH THE MATERIALS OR THEIR USE.
+
+8. TERMINATION
+
+   This Agreement takes effect when you first use the Materials and continues
+   until terminated. It terminates automatically if you breach any of its terms.
+   On termination you must stop using and distributing the Materials; sections
+   5, 6 and 7 survive termination.
+
+9. GOVERNING LAW
+
+   This Agreement is governed by the laws of Italy, without regard to its
+   conflict of law provisions, and the courts of Rome, Italy shall have
+   exclusive jurisdiction over any dispute arising from it.
+
+For permissions beyond the scope of this licence, contact the Licensor through
+the repository at https://github.com/stefanopochet/ai-skills.
