@@ -1,0 +1,6 @@
+{
+  "_comment": "Run guard. run_status=running plus a fresh run-file mtime means another run is in progress. miner_last_run starts empty: keys are added on first run, one per area, and the judge counts today's miner slots from them (max 5 a day). To stop the judge, add a gw_pause key with a short text — only the owner removes it.",
+  "run_date": null,
+  "run_status": "done",
+  "miner_last_run": {}
+}
